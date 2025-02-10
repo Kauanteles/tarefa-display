@@ -34,7 +34,7 @@ A partir daqui, seu firmware já está compilado e pronto para uso, e só depend
 
 
 ## Comandos e funcionalidades disponívels:
-Comando via teclado no monitor serial: letras maiúsculas ou minúsculas, ou números de 0 a 9 (caractere único por comando);
+**Comando via teclado no monitor serial**: letras maiúsculas ou minúsculas, ou números de 0 a 9 (caractere único por comando), após digitados são mostrados no display e na matriz de leds no caso de números;
 
 Botão `A`: acende ou apaga o led RGB em verde, juntamente com retorno em texto no display do sucesso da ação;
 
